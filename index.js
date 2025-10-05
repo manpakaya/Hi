@@ -128,7 +128,7 @@ let storedLink5 = null;
 let storedLink6 = null;
 let storedLink7 = null;    
 let storedLink8 = null;    		
-    
+/* 
 async function sendNews(title, desc, date, link, img) {
     const message = `ＶＡＪＩＲＡ-ＭＤ ＨＩＲＵ - ＮＥＷＳ\n\n*${title}*\n\n${date}\n\n${desc}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴠᴀᴊɪʀᴀ ᴍᴅ ᴏᴡɴᴇʀ`;
     await conn.sendMessage( config.N_JID , { image: { url: img} , caption: message })  
@@ -378,6 +378,7 @@ async function checkForNewsUpdates8() {
  
 checkForNewsUpdates8();
 
+*/
 
 
 //──────────────────────────────────────────────────────────────────   
